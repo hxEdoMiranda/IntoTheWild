@@ -1,2 +1,2 @@
-# Wild
+# IntoTheWild
 Travel for Recife
